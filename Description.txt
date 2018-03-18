@@ -1,0 +1,4 @@
+The following repository provides an introduction to Vector operations and Matlab like capabilities
+of Python.
+The project mainly revolves around scientic python including libraries like  scipy ,
+ matplotlib  and  numpy  and non scientic library  tabulate .
